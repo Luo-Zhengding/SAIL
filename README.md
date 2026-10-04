@@ -5,7 +5,7 @@
 > Submitted to **IEEE/ACM TASLP**. Code and pretrained models will be released after the review process.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5bfc81d4-1c6d-477c-a204-1e16e19f08d9" width="95%">
+  <img src="https://github.com/user-attachments/assets/5bfc81d4-1c6d-477c-a204-1e16e19f08d9" width="80%">
 </p>
 
 ## Highlights
