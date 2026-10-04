@@ -17,6 +17,10 @@
 
 ## Performance
 
+<p align="center">
+  <img src="https://github.com/user-attachments/files/33016359/SAIL_BAT_Radar.pdf" width="95%">
+</p>
+
 Compared with BAT on SpatialSoundQA, SAIL:
 
 - improves dual-source detection mAP from **8.05 to 10.02**;
@@ -27,20 +31,16 @@ Compared with BAT on SpatialSoundQA, SAIL:
 
 For two-source encoder evaluation, DSAT improves detection mAP from **15.52 to 31.66** and reduces angular MAE from **54.45° to 29.59°** compared with Spatial-AST.
 
-<p align="center">
-  <img src="assets/performance.png" width="95%">
-</p>
-
-## Release
-
-- [ ] Code
-- [ ] Pretrained models
-- [ ] Training and inference scripts
-- [ ] Evaluation tools
-
 ## Citation
 
-The citation will be added when the paper becomes publicly available.
+```bibtex
+@article{luo2026sail,
+  title={SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former},
+  author={Luo, Zhengding and Wu, Jinyang and Ma, Haozhe and Zhou, Yanghao and Gan, Woon-Seng and Wang, Wenwu},
+  journal={arXiv preprint arXiv:2609.34347},
+  year={2026}
+}
+```
 
 ## Acknowledgments
 
