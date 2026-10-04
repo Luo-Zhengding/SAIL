@@ -5,9 +5,8 @@
 > Submitted to **IEEE/ACM TASLP**. Code and pretrained models will be released after the review process.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/33016330/Main.SAIL.LLM.pdf" width="95%">
+  <img src="https://github.com/user-attachments/assets/5bfc81d4-1c6d-477c-a204-1e16e19f08d9" width="95%">
 </p>
-
 
 ## Highlights
 
@@ -18,7 +17,7 @@
 ## Performance
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/33016359/SAIL_BAT_Radar.pdf" width="95%">
+  <img src="https://github.com/user-attachments/assets/353f2be3-ee3f-4481-a403-4a310fe461bf" width="95%">
 </p>
 
 Compared with BAT on SpatialSoundQA, SAIL:
